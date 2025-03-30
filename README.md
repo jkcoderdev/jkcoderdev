@@ -1,14 +1,17 @@
-# JKCoder - o mnie
+# Jan Kozaruk
 
-Siema. To ja.
-Jestem pasjonatem programowania i lubię dzielić się tą wiedzą z innymi.
+I'm a full-stack developer with expertise in building modern and efficient web applications. I focus on writing clean, maintainable code and delivering high-quality solutions.
 
-Mam też swój kanał na YouTube: https://www.youtube.com/@jkcoderyt
+## 💻 Tech Stack
+### Languages:
+🔹 HTML, CSS/SCSS
+🔹 JavaScript/TypeScript
+🔹 PHP/MySQL
+🔹 Python
+🔹 C/C++
+🔹 Dart
 
-Języki programowania, których używam:
-- HTML&CSS
-- JavaScript
-- PHP
-- Python
-- C++
-- C
+### Frameworks:
+🔹 Laravel
+🔹 Vue 3
+🔹 Flutter
