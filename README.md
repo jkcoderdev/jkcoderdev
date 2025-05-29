@@ -14,4 +14,5 @@ I'm a full-stack developer with expertise in building modern and efficient web a
 ### Frameworks:
 🔹 Laravel
 🔹 Vue 3
+🔹 Angular
 🔹 Flutter
